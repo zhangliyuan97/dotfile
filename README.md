@@ -12,3 +12,4 @@
 
 ## Tools
 * hammerspoon to split window
+    * download the release from [github link](https://github.com/Hammerspoon/hammerspoon)
